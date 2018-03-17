@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBrasil.Web.Controls.Bootstrap", "CSharpBrasil.Web.Controls.Bootstrap\CSharpBrasil.Web.Controls.Bootstrap.csproj", "{43EBF578-94B9-4DD5-B145-080123FD7AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBrasil.Web.Controls.Test", "CSharpBrasil.Web.Controls.Test\CSharpBrasil.Web.Controls.Test.csproj", "{B0AF4EE0-9224-4A27-A1D3-7BD3AD990548}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://csharpbrasil.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CSharpBrasil.Web.Controls.Bootstrap\\CSharpBrasil.Web.Controls.Bootstrap.csproj
+		SccProjectName1 = CSharpBrasil.Web.Controls.Bootstrap
+		SccLocalPath1 = CSharpBrasil.Web.Controls.Bootstrap
+		SccProjectUniqueName2 = CSharpBrasil.Web.Controls.Test\\CSharpBrasil.Web.Controls.Test.csproj
+		SccProjectName2 = CSharpBrasil.Web.Controls.Test
+		SccLocalPath2 = CSharpBrasil.Web.Controls.Test
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EBF578-94B9-4DD5-B145-080123FD7AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EBF578-94B9-4DD5-B145-080123FD7AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EBF578-94B9-4DD5-B145-080123FD7AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EBF578-94B9-4DD5-B145-080123FD7AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AF4EE0-9224-4A27-A1D3-7BD3AD990548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AF4EE0-9224-4A27-A1D3-7BD3AD990548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AF4EE0-9224-4A27-A1D3-7BD3AD990548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AF4EE0-9224-4A27-A1D3-7BD3AD990548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
